@@ -1,1 +1,2 @@
-web: python src/main.py
+# Local terminal मध्ये:
+echo "web: cd src && python main.py" > Procfile
